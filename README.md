@@ -4,7 +4,7 @@
 Two pointers use two moving indexes to quickly process data from both ends or within a sequence, making problems faster and saving extra space.
 
 
-```code
+```
 function isPalindrome(s):
     clean s (lowercase, remove non-alphanumerics)
     left = 0
