@@ -18,3 +18,5 @@ function isPalindrome(s):
 
     return true
 ```
+
+## Inplace remove elements
